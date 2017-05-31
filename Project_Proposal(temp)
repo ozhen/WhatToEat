@@ -1,0 +1,26 @@
+Purpose:
+
+How will this project make life easier?
+->By providing a number of choices for the users to select. Decision making
+
+Who
+->teenagers, young adults, food lovers
+
+Does this project have many individual features, or one main feature (possibility with many subproblems)?
+->One main feature: providing selections for thet users
+
+What are some sample stories/scenarios?
+
+UI
+->login in page
+->suggestion page
+->weather page
+
+Yes,the amount of work required in this proposal should be enough for five group members
+
+API Choices:
+OpenWeatherMap API
+Google Map API
+Translink API
+Yelp API (food)
+Recipe API
