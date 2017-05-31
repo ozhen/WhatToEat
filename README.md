@@ -6,3 +6,6 @@ so we know who each other are, and that you have access to this github
 
 SeungYun Kim 
 Student #: 301325462, e-mail: ska189@sfu.ca
+
+Rocky Ken
+Student #:301247347, e-mail:rken@sfu.ca
