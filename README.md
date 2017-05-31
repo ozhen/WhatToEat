@@ -12,3 +12,6 @@ Student #:301247347, e-mail:rken@sfu.ca
 
 Shawn An
 Student #:301323174, e-mail:shawna@sfu.ca
+
+Jia Yong (Oscar) Zhen
+Student #:301236327, e-mail:ozhen@sfu.ca
