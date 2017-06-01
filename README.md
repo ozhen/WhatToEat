@@ -15,3 +15,6 @@ Student #:301323174, e-mail:shawna@sfu.ca
 
 Jia Yong (Oscar) Zhen
 Student #:301236327, e-mail:ozhen@sfu.ca
+
+Irfandi Riawan
+Student #:301276690, e-mail:iriawan@sfu.ca
