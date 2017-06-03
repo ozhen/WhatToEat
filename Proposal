@@ -11,11 +11,11 @@ As the name suggests, WhatToEat is a web application that decides what to eat fo
     // The user may be able to use without logging in, and the Status Page would show general info.
   
   step 2: Status Page
-    The Status page will display the current status of the user's environment.
-    The status page can display weather of the user's location, time of the usage, current location etc.
+    The status page will display the current status of the user's environment.
+    The status page can display the weather of the user's location, time of the usage, current location etc.
   
   step 3: Preference Input
-    The status page must include a tab or a section that the user can use to enter his/her preferences.
+    The status page will include an input bar so that the user can use to enter his/her preferences.
     User may use check boxes to select preferences (delivery availability, vegan meal availability etc.)
     Quick search buttons (nearest restaurant, Weather fitting meals, Eat out or Dine in) may be presented.
     
@@ -24,9 +24,9 @@ As the name suggests, WhatToEat is a web application that decides what to eat fo
     //result page would be matched with user input instead of a recommandation list.
 
   Step 4: Results Page
-    According to the user's preference inputs, the application must be able to present some select options.
-    Options should not exceed 5 choices.
-    Options can be presented in a list.
+    According to the user's preference inputs, the application must be able to present some results.
+    Results should not exceed 5 choices.
+    Results can be presented in a list.
     
     Comment_Shawn
     // We may have a review Page and/or a Like button, so the user may recommand the restaurant to other people,
