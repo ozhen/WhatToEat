@@ -1,24 +1,11 @@
-# README
+WhatToEat rails application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+-Rails 5.1.1 is used
 
-Things you may want to cover:
+-ruby 2.4.0 is used
 
-* Ruby version
+-login feature is completed with a small admin/user functionality
 
-* System dependencies
+-weather page currently in development
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+-includes a homepage and signup feature
