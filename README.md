@@ -1,20 +1,11 @@
-# WhatToEat
-CMPT 276 Project
+WhatToEat rails application
 
-This is just a Read Me file for our project. Please commit your name and student info to this file,
-so we know who each other are, and that you have access to this github
+-Rails 5.1.1 is used
 
-SeungYun Kim 
-Student #: 301325462, e-mail: ska189@sfu.ca
+-ruby 2.4.0 is used
 
-Rocky Ken
-Student #:301247347, e-mail:rken@sfu.ca
+-login feature is completed with a small admin/user functionality
 
-Shawn An
-Student #:301323174, e-mail:shawna@sfu.ca
+-weather page currently in development
 
-Jia Yong (Oscar) Zhen
-Student #:301236327, e-mail:ozhen@sfu.ca
-
-Irfandi Riawan
-Student #:301276690, e-mail:iriawan@sfu.ca
+-includes a homepage and signup feature
