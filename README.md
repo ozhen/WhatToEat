@@ -9,3 +9,7 @@ WhatToEat rails application
 -weather page currently in development
 
 -includes a homepage and signup feature
+
+Admin account:
+ID:admin
+pw:admin
