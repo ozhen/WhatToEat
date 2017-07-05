@@ -9,6 +9,8 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
+/log/development.log
+/app/assets/javascripts/cable.js
 
 # Used by dotenv library to load environment variables.
 # .env
