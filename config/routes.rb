@@ -23,6 +23,7 @@ Rails.application.routes.draw do
   get '/weather', to: 'pages#weather'
   post '/weather', to: 'pages#create'
 
+  get '/users', to: 'users#index'
 
   resources :users
 end
