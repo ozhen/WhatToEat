@@ -6,7 +6,8 @@ class SessionsController < ApplicationController
   	user = User.find_by(name: params[:session][:name].downcase)
   	if( user && user.authenticate(params[:session][:password]))
   		log_in user
-  		redirect_to :controller => 'pages', :action => 'weather'
+      redirect_to app_path
+  		#redirect_to :controller => 'pages', :action => 'weather'
   	else
   		flash.now[:danger] = 'Invalid name/password combination'
   		render 'new'
