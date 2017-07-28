@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
 
+  get 'results/suggestion'
+
 	root 'static_pages#homepage'
 
   get 'pages/weather'
@@ -19,11 +21,18 @@ Rails.application.routes.draw do
   get '/signup', to: 'users#new'
 
   get '/homepage', to: 'static_pages#homepage'
-
-  get '/weather', to: 'pages#weather'
-  post '/weather', to: 'pages#create'
+  get '/homepage2', to: 'static_pages#homepage2'
 
   get '/users', to: 'users#index'
+
+  get '/app', to: 'pages#weather'
+  post '/app', to: 'pages#create'
+
+<<<<<<< HEAD
+  get '/users', to: 'users#index'
+=======
+  get '/suggestions', to: 'results#suggestion'
+>>>>>>> displayer-users-ver3
 
   resources :users
 end

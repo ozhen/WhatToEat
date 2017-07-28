@@ -4,9 +4,15 @@ class UsersController < ApplicationController
   end
 
   def index
+<<<<<<< HEAD
     @users = User.all
   end
   
+=======
+      @users = User.all
+  end
+
+>>>>>>> displayer-users-ver3
   def create
   	@user = User.new(user_params)
   	if @user.save
