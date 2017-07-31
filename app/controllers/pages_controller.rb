@@ -39,7 +39,7 @@ class PagesController < ApplicationController
 
     #display restaurant names
   	
-    flash.now[:danger] = restaurant_list
+    flash.now[:success] = restaurant_list
   	render 'weather'
   end
 end
