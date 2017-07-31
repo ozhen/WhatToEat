@@ -28,11 +28,7 @@ Rails.application.routes.draw do
   get '/app', to: 'pages#weather'
   post '/app', to: 'pages#create'
 
-<<<<<<< HEAD
-  get '/users', to: 'users#index'
-=======
   get '/suggestions', to: 'results#suggestion'
->>>>>>> displayer-users-ver3
 
   resources :users
 end
