@@ -3,7 +3,8 @@
 Always spend a lot of time thinking about what you should eat for breakfast/lunch/dinner? Well, this web application is perfect for you!
 
 ## Features:
-1. User perferneces from the user's eating history.
+1. User can view his/her eating history.
+1. User can save preferences from the eating history.
 2. Food recommendations based on the current time and weather.
 
 ## Prerequisites
@@ -30,6 +31,3 @@ Please check the following list before development:
 ```
   $ git clone https://github.com/ozhen/WhatToEat.git
 ```
-
-
-
